@@ -1,0 +1,3 @@
+Git: ker jchea comment ach share code.
+Git hub: ker chea storage.
+Git bash: ker chea comment lenux trainslate from window.

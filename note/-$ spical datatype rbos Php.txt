@@ -1,0 +1,7 @@
+-$ spical datatype rbos Php
+-jg dok klea per _ under scoor
+-operator = + - x \
+-$a +=5
+ mean net tha $a = $a+5
+-Switch per ban leak khan smer
+-var spical datatype rbos c#

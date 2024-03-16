@@ -1,0 +1,73 @@
+Database Name or SID:orcl
+Super User has:
+1 system
+2 sys as sysdba
+Password:123
+
+
+1 system connection
+username: system
+password:123
+2 oral 1 connection
+username: ora1
+password: ora1
+
+Distinct lob bom bat ទិន្នន៌យស្ទួន
+describe commend som rab bong han structre 
+structre jg bong han name colum datatype culom ni muy ni muy(char int var char......)
+
+lesson 2
+-thom tov toch desending(dsc)
+toch tov thom Acending(asc)
+-ampersend (&) bong kert varrible
+-D3 limit tov ler leakhan per (WHERE)
+where mean tu neat ti yok colum mok dak leakhan
+-comparison conditions D3 ប្រៀបធាប់=, <=, BETWEEN, IN, LIKE,
+and NULL conditions
+-Logical conditions ឆ្នាប់(AND, OR, and NOT operators)
+-jg ban 2 tur word yg per underscor 2_ _(rok first_name)
+-jg ban word del men dg tur word yg per %(rok first_name) select * first_name from employee like 's%'
+
+
+
+
+
+
+----------------------------------------------------tiney mean 3 (lek word birthday)
+
+
+
+2.Entity ke chea sql leanguage del dom nang oy name object ng table.
+  attribute tomnag oy name colum ng fiel.
+  relational database:ker chea tomneak tomnong ro veang table ng table nov knong database muy del 
+  vea mean tara 2 vi meat jour chor ke have tha colum or fiel ng jour dek ke have tha row or record
+
+3 delete ng truncate khos knea doch madach
+ -delete lob tenney doy leak khan hz delete lob tenney hz ach tver ka 'rowback' or undo tenney tang os nus mok vinhh ban.
+ -truncate lob tnney doy men preprah nov leak khan te hz truncate lob tnney hz men ach tver ka 'rowback' or undo mok vinh ban te
+
+4 what is null value?
+ - nul value ker chea dom lay muy del ke men skol hz vea ker chea tenny muy del ke men ban pjol chea tnney del men ban ka or ot pyoch.
+   null value men smer muy lek 0 ng men smer muy speace del
+
+5 waht is concatenation operater ker chea operator tang lay na som rab mok pjoub tnney ng tnney mok rom knea tea muy. ke use tool (vertical bar=||) 
+som rab pjoub tinney ng tnney rom knea tea muy.
+
+6 what is distinct keyword?
+ distinct keyword use for lob bombat tinney ទិន្នន៌យស្ទួន nov ler name colum.
+ yg ach yok unique jom nus distinct ban
+
+7 what is descrip comment
+ descrip comment use for show structur robos table
+	describe comment ach sor sa ban 2 robeab (describe or desc)
+
+8 Default date format in oracle database mean tom rong dd-mon-rr
+
+9 Comparison Operators mean =,<,>,like,between,in,<>,<=
+
+10 what is in operator and between operator.
+   in ker chea oprator tver ka dak leakhan jrern domley knong peal tea muy
+   -between ker chhea operator tang lay na use for dak leak khan sveang rok tom lay jun los jab pi
+ 
+
+

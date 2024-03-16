@@ -1,0 +1,10 @@
+print ot jos line
+println jos line
+string word
+int lek kout
+double lek mean .
+ber name nov krom yg trov in put 2 dong
+ber name nov ler lek in put tea madong 
+installment = (loan * interestRate)/(1-Math.pow(1+interestRate, -month));
+		5	5x1\100		
+ 

@@ -1,0 +1,11 @@
+1 what is web server?
+web server សម្រាប់បង្ហោះ និងផ្សព្វផ្សាយព័ត៏មានតាមរយៈ្website. ជាទូទៅ Web server
+ចែកចេញជា៣៖
+Intranet : សម្រាប់បង្ហោះព័ត៌មានក្នុង local.
+Extranet: ដូច intranet ដែរ បុ៉ន្តែវាមានបណ្តាញសាខាជាច្រើនអាចមើលរួមគ្នា ដែលបានតែ Head
+office ទៅកាន់ Branch ទេ។
+Internet សម្រាប់បង្ហោះព័ត៌មាន world wide អ្នកណាក៏អាចមើលបានដែរ​​។
+derm3 jol Registry
+start run Regedit
+registry chea database rbos window
+registry vea rsa tuk rol por mean om pi hardware ng software rbos window neak na kor ach jol tov kear ng lob ban del kea hz lob hz kir men ach undo mok vinh ban te doch nis ber kea khos re lob khos ach tver oy window ng program error ban.
